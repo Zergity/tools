@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lodash": "^4.17.21",
     "@ethersproject/providers": "^5.5.1",
     "ethers": "^5.5.2"
   }
